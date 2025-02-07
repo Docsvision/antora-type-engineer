@@ -1,0 +1,11 @@
+name: type-engineer
+version: dev
+#start_page: ROOT:index.adoc
+#display_version: 'dev'
+title: Раздел инженера Docsvision
+asciidoc:
+  attributes:
+    upgrade: ''
+
+nav:
+- modules/ROOT/type-engineer.adoc
