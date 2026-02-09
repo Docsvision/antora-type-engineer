@@ -1,7 +1,5 @@
 name: type-engineer
-version: dev
-#start_page: ROOT:index.adoc
-#display_version: 'dev'
+version: ~
 title: Раздел инженера Docsvision
 asciidoc:
   attributes:
